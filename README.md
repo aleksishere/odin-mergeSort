@@ -1,4 +1,4 @@
 # odin-mergeSort
 
-<h1>Merge Sort Algorithm made for Odin Project</h1>
-<h3>My solution for merge sort assignment. Just use `sort(array)` and it should return sorted array.</h3>
+<h2>Merge Sort Algorithm made for Odin Project</h1>
+<p>My solution for merge sort assignment. Just use <b>sort(array)</b> and it should return sorted array.</p>
